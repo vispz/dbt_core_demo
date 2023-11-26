@@ -1,5 +1,5 @@
-DBT Start project created with `dbt init`. For notes on how to use DBT with BigQuery
-see [GDoc Notes](https://docs.google.com/document/d/1NN2CYCtmMri1cWaGa8j2B8I78hhuMEsWWDAbqTIdh_I/).
+DBT Start project created with `dbt init`. **For notes on how to use DBT with BigQuery
+see [GDoc Notes](https://docs.google.com/document/d/1NN2CYCtmMri1cWaGa8j2B8I78hhuMEsWWDAbqTIdh_I/)**.
 
 ### Auto-generated README
 
